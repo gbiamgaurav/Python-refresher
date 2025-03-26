@@ -5,3 +5,4 @@ numpy
 jupyter
 notebook
 ipykernel
+bs4
