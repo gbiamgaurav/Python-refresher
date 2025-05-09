@@ -6,3 +6,6 @@ jupyter
 notebook
 ipykernel
 bs4
+fastapi
+uvicorn
+pydantic
